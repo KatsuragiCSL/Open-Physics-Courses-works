@@ -2,8 +2,8 @@
 This is a place to share my works on open Physics courses, books and exercises. This is aimed to record my learning path
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     | Works	|
+| :---        | :----          | :---       | :---	|
 | [MIT 8.01SC Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)      | Classical mechanics | Not started     |
 | [MIT 8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)      | E&M | Not started     |
 | [MIT 8.03SC Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)      | Waves | Not started     |
