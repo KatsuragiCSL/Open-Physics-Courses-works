@@ -12,3 +12,4 @@ This is a place to share my works on open Physics courses, books and exercises. 
 | [MIT 8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/)      | QM | Not started     |
 | [MIT 8.20 Introduction To Special Relativity](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/)      | Relativity | Not started     |
 | [MIT 8.701 Introduction To Nuclear And Particle Physics](https://ocw.mit.edu/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/)      | Particle Physics | Not started     |
+| [The Theoretical Minimum](https://theoreticalminimum.com/)	|	place holder	|	Not started	|
