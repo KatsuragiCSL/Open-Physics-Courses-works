@@ -17,4 +17,4 @@ This is a place to share my works on open Physics courses, books and exercises. 
 | [The Theoretical Minimum](https://theoreticalminimum.com/)	|	theoritical physics core courses	|	Not started	|
 | [The Feynman Lectures On Physics](https://www.feynmanlectures.caltech.edu/)	|	Feymann lectures	|	Not started	|
 | | |
-| [An Introduction to Thermal Physics](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0192895540)	|	Thermal physics	|	Not started	|
+| [An Introduction to Thermal Physics](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0192895540)	|	Thermal physics	|	In progress	|
