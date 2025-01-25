@@ -1,9 +1,9 @@
-# Open-Physics-Courses-works
-This is a place to share my works on open Physics courses, books and exercises. This is aimed to record my learning path
+# Physics Learning
+Learning catalogs on Physics courses, books etc.
 
 **Course list**
-| Course      | Learning point | Status     | Works	|
-| :---        | :----          | :---       | :---	|
+| Course/Book      | Category | Status     |    Comments        |
+| :---        | :----          | :---       |   :---            |
 | [MIT 8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)      | E&M | Not started     |
 | [MIT 8.03SC Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)      | Waves | Not started     |
 | [MIT 8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)      | QM | Not started     |
