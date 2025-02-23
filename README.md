@@ -4,6 +4,7 @@ Learning catalogs on Physics courses, books etc.
 **Course list**
 | Course/Book      | Category | Status     |    Comments        |
 | :---        | :----          | :---       |   :---            |
+| [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X)	|	Classical mechanics	|	In progress	|
 | [MIT 8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)      | E&M | Not started     |
 | [MIT 8.03SC Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)      | Waves | Not started     |
 | [MIT 8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)      | QM | Not started     |
